@@ -216,3 +216,38 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment variables
+.env
+
+
+# Ignore uploaded files generated during API testing
+app/uploads/*
+
+# Ignore trained ML models if they become large
+*.pkl
+
+# Ignore audio files generated during testing
+*.wav
+*.mp3
+
+# Ignore image test files
+*.png
+*.jpg
+*.jpeg
+*.png
+*.jpg
+*.jpeg
+*.mp3
+*.wav
