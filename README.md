@@ -31,7 +31,7 @@ This section will be updated as new projects are added.
 | Project | Description | Status |
 |--------|-------------|--------|
 | **Customer Churn Prediction System** | Machine learning project focused on predicting customer churn using structured data and classification techniques. | Completed |
-| **Multimodal Hate Speech Detector** | AI application for detecting potentially harmful language from text, audio, and video inputs. | In Progress |
+| **Multimodal Hate Speech Detector** | AI application for detecting potentially harmful language from text, audio, and video inputs. | Completed |
 
 ---
 
