@@ -1,95 +1,103 @@
 # Machine Learning & Data Science Portfolio
 
-Experienced software engineering professional transitioning into Machine Learning and Data Science through hands-on projects focused on predictive analytics, intelligent systems, and scalable software architectures.
+Welcome to my Machine Learning and Data Science portfolio repository.
 
-With over 13 years of experience in enterprise software engineering, Agile delivery, automation systems, and technical program management, this portfolio represents my journey toward applying strong Computer Science foundations to modern data-driven technologies and AI-powered solutions.
+I am a software engineering professional transitioning into Machine Learning, Data Science, and Applied AI through hands-on projects that combine strong engineering practices with data-driven problem solving.
 
-My professional background includes enterprise software delivery, microservices architecture, CI/CD systems, automation platforms, stakeholder management, and leading globally distributed teams across India, Europe, and the United States. Through this portfolio, I aim to bridge real-world engineering practices with practical Machine Learning and Data Science applications.
+With over 13 years of experience in enterprise software development, automation systems, backend engineering, Agile delivery, and scalable software architecture, this portfolio reflects my effort to apply solid computer science and software engineering foundations to modern AI and machine learning use cases.
 
 ---
 
-# Technical Focus Areas
+## About This Repository
+
+This repository serves as a central portfolio of my machine learning and data science projects.
+
+The purpose of this repository is to:
+
+- showcase practical end-to-end ML and AI projects
+- demonstrate structured, maintainable, and production-oriented development
+- document my learning journey across machine learning, NLP, multimodal AI, and intelligent systems
+- maintain a growing collection of project work in one place
+
+Each project has its own dedicated folder and README with detailed implementation, setup instructions, and project-specific documentation.
+
+---
+
+## Projects in This Repository
+
+The table below provides a high-level index of the projects maintained in this repository.  
+This section will be updated as new projects are added.
+
+| Project | Description | Status |
+|--------|-------------|--------|
+| **Customer Churn Prediction System** | Machine learning project focused on predicting customer churn using structured data and classification techniques. | Completed |
+| **Multimodal Hate Speech Detector** | AI application for detecting potentially harmful language from text, audio, and video inputs. | In Progress |
+
+---
+
+## Technical Focus Areas
 
 - Machine Learning
+- Data Science
 - Predictive Analytics
-- Data Engineering
+- Natural Language Processing
+- Multimodal AI
 - Intelligent Automation
-- REST APIs
-- Scalable Software Systems
-- Backend Engineering
 - Applied Artificial Intelligence
+- Backend Engineering
+- API-Based Applications
+- Scalable Software Systems
 
 ---
 
-# Featured Project
+## Engineering Approach
 
-## Customer Churn Prediction System
+This portfolio emphasizes not only machine learning concepts, but also practical software engineering practices such as:
 
-Built a production-style machine learning pipeline to predict customer churn using classification algorithms and feature engineering techniques. The project involved data preprocessing, exploratory data analysis, model training, evaluation, and REST API integration for real-time predictions.
-
-Implemented scalable workflows using Python, Pandas, Scikit-learn, and Flask while focusing on practical business-oriented insights and model interpretability. This project strengthened my understanding of predictive analytics, supervised learning, and deployment-oriented ML system design.
-
-### Technologies Used
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Flask
-- Matplotlib
+- clean and modular project structure
+- reusable and maintainable code
+- testing and validation
+- version control with Git and GitHub
+- documentation and reproducibility
+- deployment-oriented application design
 
 ---
 
-# Engineering & Development Practices
+## Technologies & Tools
 
-This portfolio emphasizes not only Machine Learning model development, but also production-oriented engineering practices including:
-
-- Clean and modular code architecture
-- API-driven design
-- Scalable backend workflows
-- Version control using Git
-- CI/CD-oriented development mindset
-- Business-focused problem solving
-- Model evaluation and interpretability
-
----
-
-# Academic & Professional Goal
-
-This portfolio supports my transition toward advanced graduate studies in Computer Science with specialization in Data Science and Artificial Intelligence, combining enterprise engineering experience with modern AI-driven technologies.
-
-My long-term objective is to contribute toward building scalable intelligent systems that combine strong Computer Science fundamentals with practical Machine Learning applications capable of solving real-world business and societal challenges.
-
----
-
-# Technologies & Tools
-
-## Programming & Development
+### Programming & Development
 - Python
 - Java
 - SQL
-- REST APIs
 
-## Machine Learning & Data Science
-- Scikit-learn
+### Machine Learning & Data Science
 - Pandas
 - NumPy
-- Predictive Modeling
-- Data Analysis
+- Scikit-learn
+- Matplotlib
+- Natural Language Processing
 
-## Software Engineering & DevOps
+### Application & AI Frameworks
+- Streamlit
+- Flask
+- Transformers
+- Whisper
+- PyTorch
+
+### Engineering & DevOps
 - Git
+- GitHub
 - GitLab
 - CI/CD
 - Microservices
-- Agile/Scrum
-- Flask
+- Agile / Scrum
 
 ---
 
-# About Me
+## Repository Structure
 
-I hold a Bachelor of Technology (B.Tech) degree in Computer Science & Engineering from West Bengal University of Technology with a CGPA of 7.91.
-
-Beyond technology, I am an avid traveler, backpacker, and Himalayan trekker who enjoys exploring different cultures, landscapes, and communities across India and neighboring countries. I have completed trekking expeditions including Everest Base Camp, Annapurna Base Camp, and Machapuchare Base Camp in Nepal.
-
-I strongly believe in continuous learning, adaptability, and using technology as a means to create meaningful impact across industries and communities.
+```text
+ml-projects-portfolio/
+├── customer-churn-prediction/
+├── multimodal-hate-speech-detector/
+└── README.md
